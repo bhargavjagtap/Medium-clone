@@ -1,0 +1,19 @@
+Typescript Recap
+Typescript is not understood by browser but what browser does understands is javascript.
+So basically Ts is a superset of Js which wraps up Js thus providing with extra functionality 
+like strict type checking. Converting Ts into js happens behind the scene n this is what code transpiling 
+known as.
+
+Responsiveness is taken into consideration from mobile point of view followed by
+medium screens and then further larger screens
+
+example :
+
+<img className='hidden h-32 md:inline-flex lg:h-full' 
+
+In the above example, the image is gonna hide for mobile screens and for medium and large screens it will maintain its aspect ratio accordingly
+
+Santity Studio
+GROQ
+
+NOTE:Anytime u change your env variable restart your next server
